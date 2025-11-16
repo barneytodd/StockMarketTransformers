@@ -11,7 +11,7 @@ The project integrates in-depth neural network analysis, sequence modeling, and 
 - **Transformer Insights:** Evaluated why Transformers have outperformed RNNs/LSTMs in NLP, and hypothesized that similar advantages (parallelization, attention mechanisms) could improve financial sequence modeling.  
 - **Stock Prediction Experiments:** Built standard Transformer networks for predicting closing prices, applied smoothing techniques (moving averages, piecewise regression, bagging), and extended the architecture using multi-head attention to capture inter-stock correlations.  
 
-> Full project description and in-depth results analysis can be found in [Report.pdf](Report.pdf).
+> Full project write-up can be found in [Report.pdf](Report.pdf).
 
 
 ---
